@@ -1,9 +1,10 @@
-### Nuovi blocchi (da aggiungere):
-- .mobile-menu → tutte le pagine
-- .mobile-header → tutte le pagine tranne Home (ancora statico)
 
-### Home
-- .mobile-hero
+## Nuovi blocchi (da aggiungere):  
+- mobile-menu → tutte le pagine
+- mobile-header → tutte le pagine tranne Home (ancora statico)
+
+- ### Home
+- mobile-hero
 
 ### Style (modificato):
 - mobile.css
