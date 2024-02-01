@@ -1,15 +1,15 @@
-Nuovi blocchi (da aggiungere):
+### Nuovi blocchi (da aggiungere):
 - .mobile-menu → tutte le pagine
 - .mobile-header → tutte le pagine tranne Home (ancora statico)
 
-Home
+### Home
 - .mobile-hero
 
-Style (modificato):
+### Style (modificato):
 - mobile.css
 - style.css
 
-## JS (da aggiungere):
+### JS (da aggiungere):
 - mobile.js
 
 Immagini (da aggiungere):
