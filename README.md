@@ -7,7 +7,8 @@
 
 ## Style (modificato):
 - mobile.css
-- style.css
+- style.css  
+- **Tutte le pagine** -> link media="screen and (max-width: **992px**)" href="/static/css/mobile.css" rel="stylesheet" (era 680px)
 
 ## JS (da aggiungere):
 - mobile.js
