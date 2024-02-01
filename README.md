@@ -1,21 +1,22 @@
-
-## Nuovi blocchi (da aggiungere):  
+## Nuovi blocchi (da aggiungere):    
 - mobile-menu → tutte le pagine
 - mobile-header → tutte le pagine tranne Home (ancora statico)
 
-- ### Home
+### Home
 - mobile-hero
 
-### Style (modificato):
+## Style (modificato):
 - mobile.css
 - style.css
 
-### JS (da aggiungere):
+## JS (da aggiungere):
 - mobile.js
 
-Immagini (da aggiungere):
+## Immagini (da aggiungere):
 - static/img/hero_mobile → nuove (per il hero mobile)
+- hamburger.svg
+- close-icon.jpeg
+- indicator.svg
 
 ### Notizie.html - classe sbagliata:
-
-- <h1 id="~~notizie-titlec~~">Notizie</h1> → <h1 id="**notizie-title**">Notizie</h1>
+h1: id="~~notizie-titlec~~">Notizie → h1: id="**notizie-title**">Notizie
