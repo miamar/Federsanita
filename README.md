@@ -20,3 +20,4 @@
 
 ### Notizie.html - classe sbagliata:
 h1: id="~~notizie-titlec~~">Notizie → h1: id="**notizie-title**">Notizie
+- pagination sotto le notizie
