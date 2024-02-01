@@ -9,7 +9,7 @@ Style (modificato):
 - mobile.css
 - style.css
 
-JS (da aggiungere):
+## JS (da aggiungere):
 - mobile.js
 
 Immagini (da aggiungere):
